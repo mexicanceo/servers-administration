@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "IMPORTANT DO NOT USE A PROXY IT THE SERVER MAY REJECT YOUR QUERY!"
+echo "IMPORTANT DO NOT USE A PROXY THE SERVER MAY REJECT YOUR request!"
 echo "Insert the name of the Anime to look for"
 read anime
 echo "original result $anime"
