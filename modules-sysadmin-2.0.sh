@@ -27,10 +27,10 @@ ifconfig -a | sed 's/[ \t].*//;/^\(lo\|\)$/d' | sed 's/://'
 echo "__________________-"
 		;;
 		"2")
-echo "current Modules for network interfaces"
+echo "current PCI network interfaces"
 lspci | grep Ethernet
 lspci | grep Network
-echo "Current modules Found in the system"
+echo "Current pci Found in the system"
 echo "___________________"
 		;;
 		"3")
