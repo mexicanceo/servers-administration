@@ -1,6 +1,6 @@
 #!/bin/bash
 #"Program created to Jesus Rosas"
-#"Available in github at -> "
+#"Available in github at -> https://github.com/mexicanceo/servers-administration/blob/master/webinfo.sh "
 echo "Hello pal and welcome to DiscoWget 1.0"
 echo "Program created to download relevant information"
 red=`tput setaf 1`
